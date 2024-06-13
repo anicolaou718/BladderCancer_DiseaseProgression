@@ -32,6 +32,11 @@ Sequential Keras Neural Model
 
 **Feature Selection Methods**:
 
+Recursive Feature Elimination (Wrapper),
+Mutual Information ,
+Chi Square ,
+
+**Evaluation Metrics**
 Confusion Matrix,
 Classification Report,
 Roc curve- ROC AUC
