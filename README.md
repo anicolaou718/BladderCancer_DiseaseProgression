@@ -3,7 +3,7 @@ Identifying key features that can be used to predict whether a patient will have
 
 The following tools and steps were taken to better understand and evaluate the dataset:
 
-**Data Cleaning** :
+**Data Cleaning** : /n
 Removing Outliers -- Capping
 Removing Nulls -- Replace with mean
 Standardization
